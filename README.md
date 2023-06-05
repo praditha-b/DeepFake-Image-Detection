@@ -9,6 +9,9 @@
 A web application was developed using the streamlit framework. For more information about the models or the project, check out the project folder in the root directory of this repository. The application source code is in the app folder.
 </p>
 
+## 
+
+<img src="assets/icons/Screenshots.gif"/>
 
 
 
