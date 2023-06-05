@@ -11,7 +11,7 @@ A web application was developed using the streamlit framework. For more informat
 
 ## 
 
-<img src="assets/icons/Screenshots.gif"/>
+<img align="center" src="assets/icons/Screenshots.gif"/>
 
 
 
