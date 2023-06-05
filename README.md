@@ -10,9 +10,9 @@ A web application was developed using the streamlit framework. For more informat
 </p>
 
 ## 
-
-<img align="center" src="assets/icons/Screenshots.gif"/>
-
+<p align="center">
+<img src="assets/icons/Screenshots.gif"/>
+</p>
 
 
 
