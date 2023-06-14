@@ -18,4 +18,11 @@ A web application was developed using the streamlit framework. For more informat
 
  ####  [PROJECT REPORT](https://drive.google.com/file/d/1orH2JH4KBnH4sMyKXfts_uoeMC6QpoGe/view?usp=sharing)
 
+## Run the app locally
+
+Open a terminal and start by cloning the project repository
+
+```bash
+  git clone https://github.com/praditha-b/DeepFake-Image-Detection.git
+```
 
