@@ -44,6 +44,9 @@ Start the server (Windows)
   streamlit run app\app.py
 ```
 
+If the browser window does not open automatically when the ```streamlit run``` command is executed, you can manually navigate to ```localhost:8501```
+To terminate the application, go back to the terminal and shutdown the server by pressing ```CTRL + C```.
+
 
 
 
