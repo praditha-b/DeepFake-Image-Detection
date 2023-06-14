@@ -26,3 +26,10 @@ Open a terminal and start by cloning the project repository
   git clone https://github.com/praditha-b/DeepFake-Image-Detection.git
 ```
 
+Install dependencies
+
+```bash
+  pip install -r requirements.txt
+```
+
+
