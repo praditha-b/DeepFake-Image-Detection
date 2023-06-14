@@ -38,6 +38,12 @@ Start the server (Linux / MacOS)
   streamlit run app/app.py
 ```
 
+Start the server (Windows)
+
+```bash
+  streamlit run app\app.py
+```
+
 
 
 
