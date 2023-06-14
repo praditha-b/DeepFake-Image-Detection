@@ -32,6 +32,12 @@ Install dependencies
   pip install -r requirements.txt
 ```
 
+Start the server (Linux / MacOS)
+
+```bash
+  streamlit run app/app.py
+```
+
 
 
 
